@@ -1,0 +1,112 @@
+D:\C# lab\FTP\FTP\bin\Debug\FTP.exe.config
+D:\C# lab\FTP\FTP\bin\Debug\FTP.exe
+D:\C# lab\FTP\FTP\bin\Debug\FTP.pdb
+D:\C# lab\FTP\FTP\bin\Debug\IrisSkin4.dll
+D:\C# lab\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+D:\C# lab\FTP\FTP\obj\Debug\FTP.Form1.resources
+D:\C# lab\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+D:\C# lab\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+D:\C# lab\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+D:\C# lab\FTP\FTP\obj\Debug\FTP.csproj.CopyComplete
+D:\C# lab\FTP\FTP\obj\Debug\FTP.exe
+D:\C# lab\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.Form1.resources
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.csproj.CopyComplete
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.0\FTP\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\bin\Debug\FTP.exe.config
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\bin\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\bin\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.Form1.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.csproj.CopyComplete
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.20\FTP1.2\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.exe.config
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.exe
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.pdb
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.Form1.resources
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.CopyComplete
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.exe
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.pdb
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.exe.config
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.exe
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\bin\Debug\FTP.pdb
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.Form1.resources
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.csproj.CopyComplete
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.exe
+C:\Users\w9747\Documents\Tencent Files\974716659\FileRecv\FTP1.52\FTP1.5\FTP1.5\FTP\obj\Debug\FTP.pdb
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\bin\Debug\FTP.exe.config
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\bin\Debug\FTP.exe
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\bin\Debug\FTP.pdb
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.Form1.resources
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.csproj.CopyComplete
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.exe
+C:\Users\Tiger Young\Desktop\FTP汇总\FTP1.6\FTP1.6\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\bin\Debug\FTP.exe.config
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\bin\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\bin\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.Form1.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.Properties.Resources.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.csproj.CopyComplete
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.8\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.Form1.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.Properties.Resources.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\bin\Debug\FTP.exe.config
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\bin\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\bin\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP1.9\FTP\obj\Debug\FTP.csproj.CopyComplete
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\bin\Debug\FTP.exe.config
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\bin\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\bin\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.Form1.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.Properties.Resources.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.csproj.CopyComplete
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.0\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\bin\Debug\FTP.exe.config
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\bin\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\bin\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.Form1.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.Properties.Resources.resources
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.csproj.CopyComplete
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.exe
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\obj\Debug\FTP.pdb
+F:\大二下\计算机网络\计网综合实验\FINAL_WORK\FTP2.1\FTP\bin\Debug\MaterialSkin.dll
