@@ -1,5 +1,5 @@
 ### FTPClient
-A simple FTP Client work together with FileZilla Server.
+A simple FTP Client work togethers with FileZilla Server.
 
 一个具备基础功能的FTP客户端，使用C# Winform开发，基础为Socket编程
 
